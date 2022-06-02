@@ -1,0 +1,4 @@
+project: PROJECT
+target: cdn_fuzz
+cmds:
+- cmd: /out/cdn_fuzz
